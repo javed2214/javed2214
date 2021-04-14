@@ -1,5 +1,5 @@
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/urbanisierung/urbanisierung/master/that-was-more-work-than-i-thought.svg?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/urbanisierung/urbanisierung/master/that-was-more-work-than-i-thought.svg?raw=true" width="400" height="220" />
 
 <h1 align="center">Hi there 👋, I'm Javed</h1>
 
