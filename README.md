@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi there 👋, I'm Javed</h1>
 
-<h4 align="center">A passionate Web App Developer and Cloud Solutions Architect specialized in AWS and Azure. Apart from that I've also worked on DevOps tools like Ansible, Docker and Terraform.</h4>
+<h4 align="center">A passionate Web App Developer skilled in Node and React, Cloud Solutions Architect specialized in AWS and Azure. Apart from that I've also worked on DevOps tools like Ansible, Docker and Terraform.</h4>
 
  ## GitHub Stats
 
