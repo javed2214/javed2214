@@ -5,6 +5,8 @@
 
 <h4 align="center">A passionate Web App Developer skilled in Node and React, Cloud Solutions Architect specialized in AWS and Azure. Apart from that I've also worked on DevOps tools like Ansible, Docker and Terraform.</h4>
 
+<br />
+<br />
  ## GitHub Stats
 
-  <img align="left" alt="Sachin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=javed2214" />
+<img align="left" alt="Sachin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=javed2214" />
