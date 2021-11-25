@@ -1,10 +1,6 @@
 <p align="center">
   <br>
-  <br>
-  <br>
   <samp>Hello there. I'm <a href="http://www.javed.live" target="_blank">Javed Ansari</a>.<br> I'm a Full Stack Web Developer.<br><br>#javascript, #nodejs, #reactjs, #aws, #azure</samp>
-  <br>
-  <br>
   <br>
   <br>
   <img src="https://thumbs.gfycat.com/SpeedyMealyCornsnake-size_restricted.gif" width="350" />
