@@ -1,11 +1,19 @@
+<p align="center">
+  <br>
+  <br>
+  <br>
+  <samp>Hello there. I'm <a href="http://www.javed.live" target="_blank">Javed Ansari</a>.<br> I'm a Full Stack Web Developer.<br><br>#javascript, #nodejs, #reactjs, #aws, #azure</samp>
+  <br>
+  <br>
+  <br>
+  <br>
+  <img src="https://thumbs.gfycat.com/SpeedyMealyCornsnake-size_restricted.gif" width="350" />
+</p>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/urbanisierung/urbanisierung/master/that-was-more-work-than-i-thought.svg?raw=true" width="400" height="220" />
-
-<h1 align="center">Hi there 👋, I'm Javed</h1>
-
-<h4 align="center">A passionate Web App Developer skilled in Node and React, Cloud Solutions Architect specialized in AWS and Azure. Apart from that I've also worked on DevOps tools like Ansible, Docker and Terraform.</h4>
-
-
- ## GitHub Stats
-
-<img align="left" alt="Sachin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=javed2214" />
+<br/>
+<p align="center">
+  <a href="https://github.com/javed2214/" >
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=javed2214&theme=vue&show_icons=true" />
+  </a>
+ </p>
+<br/>
