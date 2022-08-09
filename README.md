@@ -1,5 +1,5 @@
 <p align="center">
-  <samp>Hi there! I'm <a href="http://www.javed.live" target="_blank">Javed Ansari</a>.<br> A Full Stack Developer.<br><br><b>#javascript, #nodejs, #reactjs, #python, #aws, #azure</b></samp>
+  <samp>Hi there! I'm <a href="http://www.javed.live" target="_blank">Javed Ansari</a>.<br> A Full Stack Developer.<br><br><b>#golang, #javascript, #python, #aws</b></samp>
   <br>
   <br>
   <img src="https://thumbs.gfycat.com/SpeedyMealyCornsnake-size_restricted.gif" width="200" />
